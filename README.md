@@ -1,0 +1,2 @@
+# Automatic-fact-checking-and-misinformation-detection-using-enhanced-deep-learning-techniques-
+This project focuses on developing an intelligent system to automatically detect fake news and misinformation using advanced deep learning methods. In today’s digital era, large amounts of unverified information are shared across social media and online platforms, making manual fact-checking inefficient and time-consuming.
